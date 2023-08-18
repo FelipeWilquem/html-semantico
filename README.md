@@ -78,14 +78,14 @@ Este é um metodo `console.log()` do javascript
 
 
 ```javascript
-function selecionaElemento(){ const body = documkent.querySelector('body');}```
+function selecionaElemento(){ const body = documkent.querySelector('body');}
+```
 
 Frutas |  Doce  |  Salgados
 :------    :-----:    --------:
 Banana | Chocolate | Coxinha
 maça   | bala      | risoles
 uva    | bombom    | kibe
-
 
 
 
