@@ -71,6 +71,23 @@ adicionando um ponto de exclamação ! no início do código, como no exemplo ab
 ![cachorro](https://conteudo.imguol.com.br/c/entretenimento/eb/2022/03/23/cachorro-da-raca-lulu-da-pomeramia-1648065976007_v2_900x506.jpg)
 
 
+# dois acentos crase ele identifica a palavra como codigo
+
+Este é um metodo `console.log()` do javascript
+
+
+
+```javascript
+function selecionaElemento(){ const body = documkent.querySelector('body');}```
+
+Frutas |  Doce  |  Salgados
+:------    :-----:    --------:
+Banana | Chocolate | Coxinha
+maça   | bala      | risoles
+uva    | bombom    | kibe
+
+
+
 
 
 
