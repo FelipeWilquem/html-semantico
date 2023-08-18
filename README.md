@@ -82,7 +82,7 @@ function selecionaElemento(){ const body = documkent.querySelector('body');}
 ```
 
 Frutas |  Doce  |  Salgados
-:------    :-----:    --------:
+:------|  :-----: |   --------:
 Banana | Chocolate | Coxinha
 maça   | bala      | risoles
 uva    | bombom    | kibe
