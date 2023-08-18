@@ -87,6 +87,13 @@ Banana | Chocolate | Coxinha
 maça   | bala      | risoles
 uva    | bombom    | kibe
 
+Comandos do git para finalizar
+
+#1 git add . (para adicionar as alterações)
+#2 git commit -m "nome da alteração"
+#3 git push
+
+pronto!!!!!
 
 
 
