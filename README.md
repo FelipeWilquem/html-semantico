@@ -5,9 +5,11 @@ Aqui nos vamos entender como estrturar nossa aplicação semanticamente
 
 Texto em negrito usa dois asteristicos **   **
 
+
 Texto em_negrito_com underscore 
 
 **Felipe**
+
 
 
 Texto em italico com um asteristico  *  *
