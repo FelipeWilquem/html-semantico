@@ -1,0 +1,12 @@
+body{
+    /* nome-propriedade: 'valor propriedade'  */
+    /* color: aqua;rgb(255, 0, 0): url(valor-propriedade): */
+    
+}
+
+h1 {
+    color: rgb(145, 252, 4);
+    line-height: 2.1;
+    font-weight: bold;
+    
+}
