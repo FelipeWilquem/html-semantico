@@ -11,6 +11,20 @@ padding: 10px;
 
 }
 
+
+
+
+.titulo-de-artigo2{
+    
+ 
+    background-color: rgb(204, 26, 26);
+    color:rgb(40, 7, 190);
+    padding: 20px;
+    border-radius: 20px;
+    margin: 0px;
+ padding-top: ;
+}
+
 .subtitulo-de-pagina{
     color:  #4F709C;
     line-height: 2.1;
