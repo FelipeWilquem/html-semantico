@@ -15,14 +15,18 @@ padding: 10px;
 
 
 .titulo-de-artigo2{
-    
- 
     background-color: rgb(204, 26, 26);
     color:rgb(40, 7, 190);
     padding: 20px;
     border-radius: 20px;
     margin: 0px;
  padding-top:0 px ;
+}
+.titulo-de-artigo2 ~ .titulo-de-artigo2{
+    padding-top: 0;
+    /* titulo-de-artigo2 ~ .titulo-de-artigo2{
+    padding-top: 0;
+    padding tira a borda do elemento para dentro */
 }
 
 .subtitulo-de-pagina{
