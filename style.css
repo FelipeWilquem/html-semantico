@@ -3,7 +3,7 @@ body{
      /* espaço bordas    */
 
 
-background-color: rgb(172, 183, 197);
+background-color: rgb(204, 209, 216);
 color: rgb(1, 12, 12);
 
 padding: 10px; 
@@ -14,23 +14,32 @@ padding: 10px;
 
 
 
-.titulo-de-artigo2{
-    background-color: rgb(204, 26, 26);
+.paragrafo-de-artigo{
+    background-color: rgb(86, 107, 27);
     color:rgb(40, 7, 190);
     padding: 20px;
     border-radius: 20px;
     margin: 0px;
- padding-top:0 px ;
 }
+
+
+  .paragrafo-de-artigo:last-of-type{
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+  }
+
 .titulo-de-artigo2 ~ .titulo-de-artigo2{
-    padding-top: 0;
+    padding-top: 10px;
     /* titulo-de-artigo2 ~ .titulo-de-artigo2{
     padding-top: 0;
     padding tira a borda do elemento para dentro */
 }
 
+
+
+
 .subtitulo-de-pagina{
-    color:  #4F709C;
+    color:  #f1e20e;
     line-height: 2.1;
     font-weight: bold;
     font-size: 30pt;
@@ -42,7 +51,7 @@ padding: 10px;
 }
 
 .titulo-de-artigo{
-    color:  #ecebe4;
+    color:  #eeecde;
     line-height: 2.1;
     font-weight: bold;
     font-size: 30pt;
@@ -52,7 +61,7 @@ padding: 10px;
 }
 
 .titulo-de-secao{
-    color: rgb(24, 10, 90);
+    color: rgb(48, 6, 240);
     line-height: 2.1;
     font-weight: bold;
     font-size: 30pt;
